@@ -10,13 +10,13 @@ The origin bounding boxes of objects are needed.
 python >= 3.0  
 numpy  
 pandas  
-openCV  
-tqdm
-torch (my version is torch181)
-torchvision
-argparse
-yacs
-logging
+openCV    
+tqdm  
+torch (my version is torch181)  
+torchvision  
+argparse  
+yacs  
+logging  
 
 
 ## Training
